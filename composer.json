@@ -1,0 +1,18 @@
+{
+    "name": "ksf/expression",
+    "type": "library",
+    "license": "BSD 2",
+    "autoload": {
+        "psr-4": {
+            "kfilin\\expression\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Calculate, debug and explain complex expressions"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.2"
+    }
+}
